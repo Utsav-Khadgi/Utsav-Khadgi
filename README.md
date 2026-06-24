@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a .NET Developer based in Sanepa, Lalitpur, Nepal with hands-on industry experience building web applications using C# and ASP.NET. I've worked across full software development lifecycles — from internship through junior developer roles — contributing to real hospitality software products at Danfe Solutions. I also built a full-stack workshop management web app as my Final Year Project, solving real operational problems for a local automobile workshop.<br>My personal portfolio website and improving my ASP.NET Core skills for mid-level roles.NET / ASP.NET Core projectsC# · ASP.NET MVC · Entity Framework · SQL Server
+I'm a .NET Developer based in Sanepa, Lalitpur, Nepal with hands-on industry experience building web applications using C# and ASP.NET. I've worked across full software development lifecycles from internship through junior developer roles contributing to real hospitality software products at Danfe Solutions. I also built a full-stack workshop management web app as my Final Year Project, solving real operational problems for a local automobile workshop.
+My personal portfolio website and improving my ASP.NET Core skills for mid-level roles.NET / ASP.NET Core projectsC# · ASP.NET MVC · Entity Framework · SQL Server
 
 
 ## 🌐 Socials:
